@@ -1,0 +1,17 @@
+/Users/Vishal/Unity Projects/SuperSpartyBros/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Vishal/Unity Projects/SuperSpartyBros/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Vishal/Unity Projects/SuperSpartyBros/obj/Debug/Assembly-CSharp.dll
+/Users/Vishal/Unity Projects/SuperSpartyBros/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Vishal/Unity Projects/SuperSpartyBros/Temp/bin/Debug/UnityEngine.dll
+/Users/Vishal/Unity Projects/SuperSpartyBros/Temp/bin/Debug/UnityEditor.dll
+/Users/Vishal/Unity Projects/SuperSpartyBros/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Vishal/Unity Projects/SuperSpartyBros/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Vishal/Unity Projects/SuperSpartyBros/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Vishal/Unity Projects/SuperSpartyBros/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Vishal/Unity Projects/SuperSpartyBros/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Vishal/Unity Projects/SuperSpartyBros/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Vishal/Unity Projects/SuperSpartyBros/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Vishal/Unity Projects/SuperSpartyBros/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Vishal/Unity Projects/SuperSpartyBros/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Vishal/Unity Projects/SuperSpartyBros/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Vishal/Unity Projects/SuperSpartyBros/Temp/bin/Debug/Mono.Cecil.Mdb.dll
