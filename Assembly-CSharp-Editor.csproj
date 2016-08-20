@@ -45,6 +45,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Editor\DeletePlayerPrefs.cs" />
+     <Compile Include="Assets\Editor\GameMangerEditor.cs" />
      <Compile Include="Assets\Editor\ImageEffects\AntialiasingEditor.cs" />
      <Compile Include="Assets\Editor\ImageEffects\BloomAndFlaresEditor.cs" />
      <Compile Include="Assets\Editor\ImageEffects\BloomEditor.cs" />
@@ -180,6 +182,8 @@
  </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{DB5D7EFE-E739-DCF8-CD12-0D29BA3CBADA}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-CSharp.csproj">
       <Project>{B0FC28C9-3001-7F32-CA9D-AD6436169F07}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
