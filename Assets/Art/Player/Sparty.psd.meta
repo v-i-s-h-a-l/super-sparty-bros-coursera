@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: b933cc4e1dbdc483eb4917c95fc6d81e
-timeCreated: 1471294607
-licenseType: Free
+timeCreated: 1446170094
+licenseType: Pro
 TextureImporter:
   fileIDToRecycleName:
     21300000: SpartyIdle_0
@@ -17,12 +17,12 @@ TextureImporter:
     21300020: Sparty_SS_3
     21300022: Sparty_SS_4
     21300024: Sparty_SS_5
-    21300026: Sparty_idle_1
-    21300028: Sparty_idle_2
-    21300030: Sparty_run_1
-    21300032: Sparty_run_2
-    21300034: Sparty_run_3
-    21300036: Sparty_jump
+    21300026: Sparty_Idle1
+    21300028: Sparty_Idle2
+    21300030: Sparty_Walk1
+    21300032: Sparty_Walk2
+    21300034: Sparty_Walk3
+    21300036: Sparty_Jump
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -36,7 +36,7 @@ TextureImporter:
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: 0.25
+    heightScale: .25
     normalMapFilter: 0
   isReadable: 0
   grayScaleToAlpha: 0
@@ -61,7 +61,7 @@ TextureImporter:
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: 0.5, y: 0.5}
+  spritePivot: {x: .5, y: .5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 16
   alphaIsTransparency: 1
@@ -74,7 +74,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
   spriteSheet:
     sprites:
-    - name: Sparty_idle_1
+    - name: Sparty_Idle1
       rect:
         serializedVersion: 2
         x: 0
@@ -82,10 +82,9 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-    - name: Sparty_idle_2
+    - name: Sparty_Idle2
       rect:
         serializedVersion: 2
         x: 16
@@ -93,10 +92,9 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-    - name: Sparty_run_1
+    - name: Sparty_Walk1
       rect:
         serializedVersion: 2
         x: 32
@@ -104,10 +102,9 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-    - name: Sparty_run_2
+    - name: Sparty_Walk2
       rect:
         serializedVersion: 2
         x: 48
@@ -115,10 +112,9 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-    - name: Sparty_run_3
+    - name: Sparty_Walk3
       rect:
         serializedVersion: 2
         x: 64
@@ -126,10 +122,9 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-    - name: Sparty_jump
+    - name: Sparty_Jump
       rect:
         serializedVersion: 2
         x: 80
@@ -137,10 +132,8 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-    outline: []
   spritePackingTag: 
   userData: 
   assetBundleName: 
